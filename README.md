@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Excited to contribute to open-source projects!
+
 <!--
 **jmarintur/jmarintur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
